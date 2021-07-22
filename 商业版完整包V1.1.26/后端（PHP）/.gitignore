@@ -1,0 +1,10 @@
+.idea
+hup-frontend/
+public/temp/
+public/uploads/
+public/nginx.htaccess
+runtime/
+vendor/
+composer.lock
+thinkphp/
+.env
